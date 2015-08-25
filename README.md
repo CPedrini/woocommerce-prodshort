@@ -1,7 +1,7 @@
 # woocommerce-prodshort
 Massive csv importer for WooCommerce WP plugin
 
-## Instructions:
+## Instructions
 1. Drop files inside WP root directory and replace all.
 2. Activate plugin called: "WooCommerce Product Shortlinks Importer".
 3. Go to menu: Tools / Woo ProdShort Importer.
@@ -9,7 +9,7 @@ Massive csv importer for WooCommerce WP plugin
   * Review columns and import.
   * Wait until process finish. It does ajax request until finish.
 
-## Notes:
+## Notes
 
 **Plugin:**  
 Folder: wp_modified/wp-content/plugins/woocommerce-prodshort/  
@@ -22,3 +22,9 @@ What it does: Add custom field "short_link" with provided value.
 Folder: wp_modified/wp-content/themes/glammy/woocommerce/single-product/add-to-cart/  
 File: simple.php  
 Changes from original: Removed button and quantities, added direct link referencing product custom field.
+
+## License
+
+See attached `LICENSE`.
+
+Copyright 2015 Ciro Pedrini - All rights reserved.
